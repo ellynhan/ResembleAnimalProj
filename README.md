@@ -1,2 +1,5 @@
 # ResembleAnimalProj
-finding resemble animal using opencv and etc..
+
+finding resemble animal face using opencv and dlib with python
+
+
